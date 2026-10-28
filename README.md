@@ -206,7 +206,8 @@ The dashboard was designed to explore questions such as:
 8. Which products have the highest recorded quantities sold?
 9. How does monthly order activity fluctuate throughout the year?
 10. What data-quality limitations should be considered before making customer-level or category-level decisions?
-
+![Sales Analysis](images/analysis.png)
+    
 ---
 
 ## Excel Skills Demonstrated
