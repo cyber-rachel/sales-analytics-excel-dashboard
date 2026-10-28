@@ -127,6 +127,7 @@ The dashboard combines KPI cards and Excel chart-based reporting to present the 
 ---
 
 ## Dataset
+![Sales Dataset](images/data.png)
 
 The dataset contains **500 order records** covering the period from 1 January 2026 to 31 December 2026.
 
